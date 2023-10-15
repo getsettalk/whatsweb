@@ -1,0 +1,12 @@
+.vercel
+
+# managed
+**.data.json
+**.node-persist**
+**_IGNORE_**
+# end managed
+.wwebjs_cache
+.wwebjs_auth
+.vercel
+server.js
+node_modules
